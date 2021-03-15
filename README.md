@@ -18,6 +18,33 @@
   </a>
 </p>
 
+```alexDesignPrograming1
+module main
+
+aboutMe :: struct {
+  pronouns :: string[];
+  languages :: string[];
+  hobbies :: string[];
+  funFact :: string;
+}
+
+main :: func(): void {
+  alex :: aboutMe = {
+    languages: ["C", "C#", "JavaScript", "Typescript", "PHP",  "Python"],
+    database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+    devops: ['Docker', 'Nginx', 'AWS', 'Heroku'],
+    hobbies: ["Coding", "Gaming", "Design"],
+    funFact: "The first computer virus was created in 1983!"
+  };
+  
+  println "Languages I Know: ${alex.languages}";
+  println "Devops I Know: ${alex.devops}";
+  println "Databases I Know: ${alex.database}";
+  println "My Hobbies: ${alex.hobbies}";
+  println "Fun Fact: ${alex.funFact}";
+}
+
+```
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
