@@ -2,7 +2,7 @@
 <h3 align="center">A Enthusiast of the best web & mobile development technologies, Dev Full-Stack</h3>
 
 
-<h3 align="left">You can reach me at: :alien:</h3>
+<h3 align="left">You can reach me at: 🖥️</h3>
 
 <p align="left">
   <a href="http://alexdesign.epizy.com/">
