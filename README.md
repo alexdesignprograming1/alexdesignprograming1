@@ -1,6 +1,4 @@
-<h4 align="center" >Is 2020 decide to start a new portfolio every decade after 2030</h4 >
 <h3 align="center">A Enthusiast of the best web & mobile development technologies, Dev Full-Stack</h3>
-
 
 <h3 align="left">You can reach me at: 🖥️</h3>
 
@@ -13,7 +11,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.instagram.com/alllexsillva/">
+  <a href="https://www.instagram.com/alexdesignprograming/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's Instagram Profile" height="30" width="30">
   </a>
 </p>
@@ -30,9 +28,9 @@ aboutMe :: struct {
 
 main :: func(): void {
   alex :: aboutMe = {
-    languages: ["C", "C#", "JavaScript", "Typescript", "PHP",  "Python"],
+    languages: ["C", "C#", "JavaScript", "Typescript", "RUST",  "Kotlin"],
     database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-    devops: ['Docker', 'Nginx', 'AWS', 'Heroku'],
+    devops: ['Docker', 'Nginx', 'AWS', 'Azure'],
     hobbies: ["Coding", "Gaming", "Design"],
     funFact: "The first computer virus was created in 1983!"
   };
@@ -51,9 +49,7 @@ main :: func(): void {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
